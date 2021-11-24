@@ -11,4 +11,9 @@ CREATE TABLE projects (
     materials VARCHAR(255),
     is_team_project BOOLEAN,
     "type" proj_type
-)
+);
+
+
+
+
+
