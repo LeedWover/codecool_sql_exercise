@@ -1,6 +1,7 @@
-FIRST STEP 
+**FIRST STEP**
 
-RUN THIS QUERY 
-CREATE DATABASE codecool;
+  
 
-Is readable ? 
+*RUN THIS QUERY*
+
+    CREATE DATABASE codecool;

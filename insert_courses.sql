@@ -1,1 +1,1 @@
-insert into courses (course_name) values ('Programming Basics'),('SQL and Testing Basincs'),('Test Techniques & Managment'),('Advanced Testing');
+insert into courses (course_name) values ('Frontend'),('Backend'),('Manual Tester'),('Sys admin');
