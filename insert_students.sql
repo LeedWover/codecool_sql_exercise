@@ -1,5 +1,5 @@
 
-SET client_encoding TO 'LATIN2';
+SET client_encoding TO 'UTF8';
 insert into students (join_date,name, nickname , city, dOB,hobby,  email ) values ('2021.06.14','Kovács Rózsa', 'Rózsi', 'Karakószörcsög', '1998-01-23','bicycle','rozsika27@zene.hu');
 insert into students (join_date,name, nickname , city, dOB,hobby,  email ) values ('2021.05.16','Édes Anna', 'Panni', 'Pusztaröcsöge', '1996-05-21','hiking','annus96@gmasil.hu');
 insert into students (join_date,name, nickname , city, dOB,hobby,  email ) values ('2021.06.13','Korai Hajnalka', 'Hajni', 'Budapest', '1992-09-17','acting','hajnicskah@freemail.hu');
