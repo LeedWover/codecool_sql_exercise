@@ -46,4 +46,11 @@ GROUP BY students.name,student_id
 
 
 
+--f:
 
+SELECT students.name , SUM(mark) AS total_mark
+FROM reviews
+INNER JOIN students ON (students.id = reviews.reviewer_id)
+GROUP BY students.name,student_id
+ORDER BY total_mark DESC
+LIMIT 3;
